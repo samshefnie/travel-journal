@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    background-color: #F55A5A;
+}
+
+#logo {
+    width: 24px;
+    height: 24px;
+    padding-right: 7px;
+}
+
+#header {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}
